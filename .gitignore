@@ -8,6 +8,10 @@ __pycache__/
 checkpoints
 data
 logs
-
+.env
 .__afs*
 *DS_Store
+/env
+./env
+//env
+*.png
