@@ -284,7 +284,7 @@ class MagNet3Frames(object):
         img_list.sort()
         # Create a VideoWriter object to write the video
         fourcc = cv2.VideoWriter_fourcc(*"mp4v")
-        out = cv2.VideoWriter('video'+video_name, fourcc, fps, (image_width, image_height))
+        out = cv2.VideoWriter('video'+vid_name, fourcc, fps, (image_width, image_height))
         print('---CrandoVideo-------')
         for i, img_name in enumerate(img_list):
             img_path = os.path.join(out_dir, img_name)
