@@ -2,6 +2,7 @@
 ----
 1. Crear un ambiente virtual
 - python -m venv env
+
 2 Activar ambiente virtual
 
 -**Linux:** source env/bin/activate
