@@ -18,6 +18,8 @@
    
 6. Crear carpeta con el nombre de el video a convertir. 
 
-8.  Correr archivo sh - > sh run_temporal_on_test_videos.sh o3f_hmhm2_bg_qnoise_mix4_nl_n_t_ds3 baby 20 0.04 0.4 30 2 differenceOfIIR
+8.  Correr archivo sh - >
+  sh run_temporal_on_test_videos.sh <experiment_name> <video_name> <amplification_factor> <low_cutoff> <high_cutoff> <sampling_rate> <n_filter_tap> <filter_type>
+   **Ejemplo** sh run_temporal_on_test_videos.sh o3f_hmhm2_bg_qnoise_mix4_nl_n_t_ds3 baby 20 0.04 0.4 30 2 differenceOfIIR
 
 
