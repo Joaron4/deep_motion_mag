@@ -15,3 +15,5 @@
 4. Correr archivo sh 
 
 5. Joaquin
+
+6. lo que sea
