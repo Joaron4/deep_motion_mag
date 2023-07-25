@@ -12,6 +12,12 @@
 
  - pip install -r requirements.txt
 
-4. Correr archivo sh 
+4.Crear carpeta llamada -> data
+
+5. Crear carpeta llamada vids
+   
+6. Crear carpeta con el nombre de el video a convertir. 
+
+8.  Correr archivo sh 
 
 
