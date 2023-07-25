@@ -13,3 +13,5 @@
  - pip install -r requirements.txt
 
 4. Correr archivo sh 
+
+5. Joaquin
