@@ -14,9 +14,4 @@
 
 4. Correr archivo sh 
 
-5. Joaquin
-
-6.  hola
-
-7.  Funcional
 
